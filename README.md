@@ -3,7 +3,7 @@ robertjk/robertjk is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-Programmer, web developer, vegan/vegetarian. Born in 1989 in Poland.
+Programmer, web developer, interested in art (mainly cinema and music) and buddhism. Born in 1989 in Poland.
 
 What I like:
 
@@ -12,15 +12,18 @@ What I like:
 - Clean code, good architecture, good design,
 - JavaScript, Python, Rust,
 - Vim,
-- People and other creatures,
+- People and other animals,
 - Cooking,
-- David Lynch, Krzysztof Kieślowski, Béla Tarr, Tom Waits and other cinema and music,
+- David Lynch, Krzysztof Kieślowski, Béla Tarr, Pharoah Sanders, Tom Waits and lot of other cinema and music,
+- Chocolate,
+- Tea,
+- Japanese incense,
 - Honesty.
 
 What I don't like:
 
-- Writing and working on crappy code,
-- Things that don't work as they should,
+- Crappy things polluting our world,
+- Mentality of always wanting more and more,
 - Laziness,
 - Wasting things.
 
